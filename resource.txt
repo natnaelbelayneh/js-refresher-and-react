@@ -1,0 +1,5 @@
+dom simulator
+https://codepen.io/pavlovsk/pen/QKGpQr
+
+thinking in react
+https://dev.to/jareechang/thinking-in-react-visualized-g4p
